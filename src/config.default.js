@@ -1,3 +1,5 @@
-{
-  "api_key":"YOUR_API_KEY_HERE"
-}
+module.exports = {
+  openweather: {
+    apikey: "YOUR_API_KEY_HERE"
+  }
+};
