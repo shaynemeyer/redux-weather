@@ -22,3 +22,5 @@ Download or clone this project from github.
 	> npm install
 	> npm start
 ```
+### What does it look like?
+![Redux Weather](redux-1.png)
